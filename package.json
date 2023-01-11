@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShadowHackrs/wwww.git"
+    "url": "git+https://github.com/ShadowHackrs/Whatsapp-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/ShadowHackrs/wwww/issues"
+    "url": "https://github.com/ShadowHackrs/Whatsapp-Bot/issues"
   },
-  "homepage": "https://github.com/ShadowHackrs/wwww#readme"
+  "homepage": "https://github.com/ShadowHackrs/Whatsapp-Bot#readme"
 }
