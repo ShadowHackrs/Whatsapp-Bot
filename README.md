@@ -13,3 +13,8 @@ Visit: https://shadowhackr.com <br>
 
 # How to get OpenAI API?
 Visit: https://beta.openai.com/account/api-keys
+
+https://www.arbgit.com
+https://www.shadowhackr.com
+https://www.aearb.com
+https://www.xcashadvances.com
